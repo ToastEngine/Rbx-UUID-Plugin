@@ -1,0 +1,22 @@
+{
+  "name": "UUIDPlugin",
+  "tree": {
+    "$className": "DataModel",
+    "HttpService": {
+      "$className": "HttpService",
+      "$properties": {
+        "HttpEnabled": true
+      }
+    },
+    "ServerScriptService": {
+      "$className": "ServerScriptService",
+      "UUIDPlugin":{
+        "$className": "Folder",
+        "$properties": {
+          "Name": "UUIDPlugin"
+        },
+        "$path": "src"
+      }
+    }
+  }
+}
