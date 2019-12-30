@@ -1,6 +1,6 @@
 local toolbar = plugin:CreateToolbar("UUID Generator")
-local ButtonSimple = toolbar:CreateButton("UUID Generator", "Performs Action", "rbxassetid://4458901886")
-local ButtonAdvanced = toolbar:CreateButton("UUID Generator Settings", "Toggles Settings", "rbxassetid://4458901886")
+local ButtonSimple = toolbar:CreateButton("UUID Generator", "Performs Action", "http://www.roblox.com/asset/?id=4557915127")
+local ButtonAdvanced = toolbar:CreateButton("UUID Generator Settings", "Toggles Settings", "http://www.roblox.com/asset/?id=4557914743")
 
 local HttpService = game:GetService("HttpService")
 local SelectionService = game:GetService("Selection")
