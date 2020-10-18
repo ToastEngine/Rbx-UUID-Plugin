@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"Lua.diagnostics.disable": [
+			"undefined-rbx-member"
+		]
+	}
+}

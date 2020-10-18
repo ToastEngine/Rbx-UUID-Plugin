@@ -1,5 +1,5 @@
 {
-  "name": "UUIDPlugin",
+  "name": "RichTextConsolePlugin",
   "tree": {
     "$className": "DataModel",
     "HttpService": {
@@ -10,10 +10,10 @@
     },
     "ServerScriptService": {
       "$className": "ServerScriptService",
-      "UUIDPlugin":{
+      "RichTextConsolePlugin":{
         "$className": "Folder",
         "$properties": {
-          "Name": "UUIDPlugin"
+          "Name": "RichTextConsolePlugin"
         },
         "$path": "src"
       }
